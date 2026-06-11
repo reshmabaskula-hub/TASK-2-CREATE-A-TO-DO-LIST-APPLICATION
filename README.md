@@ -46,3 +46,12 @@ Productivity enhancement
 Learning python programming concepts
 # CONCLUSION
 The TO-DO list application is a simple yet effective task management system developed using python it allows users to add,view and remove tasks through a command line interface the project successfully demonstrates essential programming concepts such as lists,loops,functions,and error handling it serves as a pratical productivity tool and a strong foundation for building more advanced task management applications in the future
+<img width="1280" height="529" alt="image" src="https://github.com/user-attachments/assets/c2fd0e35-985d-4605-bc4c-144b14c44f01" />
+<img width="1280" height="533" alt="image" src="https://github.com/user-attachments/assets/76161a42-1b7b-48f2-bb5d-147839cbe2a1" />
+<img width="1280" height="528" alt="image" src="https://github.com/user-attachments/assets/7d397f2f-7e15-48f6-8714-8c7342fb200d" />
+<img width="1280" height="510" alt="image" src="https://github.com/user-attachments/assets/401d65a4-db31-47e8-9fa3-e665ba7ae4fe" />
+
+
+
+
+
